@@ -1,2 +1,2 @@
 # notey
-Programmable notes tools
+Programmable notes for your workflows.
